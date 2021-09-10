@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["containrs"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.54.0/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"containrs/kubernetes/server/enum.LogScope.html\" title=\"enum containrs::kubernetes::server::LogScope\">LogScope</a>","synthetic":false,"types":["containrs::kubernetes::server::config::LogScope"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
